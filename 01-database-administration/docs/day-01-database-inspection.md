@@ -111,7 +111,7 @@ Through this practical exercise, I learned how to:
 
 Environment inspection script:
 
-`../scripts/01_database_environment_check.sql`
+[Environment Inspection SQL Script](../scripts/01_database_environment_check.sql)
 
 ## 11. Conclusion
 
